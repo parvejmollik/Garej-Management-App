@@ -1,0 +1,24 @@
+---------------------------------------------------
+Here are the ownership and the certification details
+of the CNG 1.0
+---------------------------------------------------
+
+app_name - 						CNG
+app_alias - 					cng
+app_author_name - 				My Company
+app_author_organizational - 	My Company
+app_author_organization - 		My Company
+app_author_locality - 			My Company
+app_author_state - 				Dhaka
+app_author_country - 			Bangladesh
+app_password - 					Dgn2c1GfYz1O
+app_versionName - 				versionName "1.0"
+app_versionCode - 				100
+
+---------------------------------------------------
+The certification was created by WebIntoApp.com at
+the Thursday 22nd of January 2026 12:23:59 AM
+
+https://webintoapp.com
+---------------------------------------------------
+
